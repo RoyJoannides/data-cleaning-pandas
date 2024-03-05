@@ -1,0 +1,6 @@
+Hypothesis Statement: The frequency of shark attacks is influenced by geographical factors such as water temperature and proximity to shorelines.
+Business Opportunity: A travel agency specializing in beach vacations could use this information to offer safer destinations for their customers.
+Hypothesis Statement: Certain activities, such as surfing or spearfishing, are more prone to shark attacks compared to other water sports or recreational activities.
+Business Opportunity: Companies selling water sports equipment or offering adventure tourism packages can tailor their offerings and safety measures based on this analysis.
+Hypothesis Statement: There is a correlation between the time of day and the occurrence of shark attacks, with attacks being more common during specific hours.
+Business Opportunity: Beach resorts and local authorities can implement targeted safety protocols and lifeguard schedules during high-risk hours to mitigate shark attack risks.
